@@ -32919,24 +32919,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marci\\.nuget\\packages\\": {},
+    "C:\\Users\\Lucas Rayzer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\OneDrive\\Documentos\\GitHub\\MAUI\\ExemploMAUI\\ExemploMAUI\\ExemploMAUI.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\ExemploMAUI.csproj",
       "projectName": "ExemploMAUI",
-      "projectPath": "C:\\Users\\marci\\OneDrive\\Documentos\\GitHub\\MAUI\\ExemploMAUI\\ExemploMAUI\\ExemploMAUI.csproj",
-      "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\OneDrive\\Documentos\\GitHub\\MAUI\\ExemploMAUI\\ExemploMAUI\\obj\\",
+      "projectPath": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\ExemploMAUI.csproj",
+      "packagesPath": "C:\\Users\\Lucas Rayzer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lucas Rayzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marci\\OneDrive\\Documentos\\GitHub\\MAUI\\ExemploMAUI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|c:\\users\\lucas rayzer\\desktop\\faculdade\\workshopddm\\exemplomaui\\exemplomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|solutionrelative:exemplomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|c:\\users\\lucas rayzer\\desktop\\faculdade\\workshopddm\\exemplomaui\\exemplomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|solutionrelative:exemplomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|c:\\users\\lucas rayzer\\desktop\\faculdade\\workshopddm\\exemplomaui\\exemplomaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|solutionrelative:exemplomaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|c:\\users\\lucas rayzer\\desktop\\faculdade\\workshopddm\\exemplomaui\\exemplomaui\\exemplomaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|solutionrelative:exemplomaui\\exemplomaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|c:\\users\\lucas rayzer\\desktop\\faculdade\\workshopddm\\exemplomaui\\exemplomaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|solutionrelative:exemplomaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|c:\\users\\lucas rayzer\\desktop\\faculdade\\workshopddm\\exemplomaui\\exemplomaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|solutionrelative:exemplomaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|c:\\users\\lucas rayzer\\desktop\\faculdade\\workshopddm\\exemplomaui\\exemplomaui\\teste1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|solutionrelative:exemplomaui\\teste1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|c:\\users\\lucas rayzer\\desktop\\faculdade\\workshopddm\\exemplomaui\\exemplomaui\\teste1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05686230-EDD1-4E5A-ACB4-C305A8875708}|ExemploMAUI\\ExemploMAUI.csproj|solutionrelative:exemplomaui\\teste1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExemploMAUI",
+              "DocumentMoniker": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\ExemploMAUI.csproj",
+              "RelativeDocumentMoniker": "ExemploMAUI\\ExemploMAUI.csproj",
+              "ToolTip": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\ExemploMAUI.csproj*",
+              "RelativeToolTip": "ExemploMAUI\\ExemploMAUI.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T20:13:59.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ExemploMAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\AppShell.xaml",
+              "RelativeToolTip": "ExemploMAUI\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-01T20:05:38.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ExemploMAUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\App.xaml.cs",
+              "RelativeToolTip": "ExemploMAUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:50:10.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teste1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\Teste1.xaml.cs",
+              "RelativeDocumentMoniker": "ExemploMAUI\\Teste1.xaml.cs",
+              "ToolTip": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\Teste1.xaml.cs",
+              "RelativeToolTip": "ExemploMAUI\\Teste1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:12:26.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ExemploMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\MainPage.xaml",
+              "RelativeToolTip": "ExemploMAUI\\MainPage.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-01T19:08:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExemploMAUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\MainPage.xaml.cs*",
+              "RelativeToolTip": "ExemploMAUI\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:10:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teste1.xaml",
+              "DocumentMoniker": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\Teste1.xaml",
+              "RelativeDocumentMoniker": "ExemploMAUI\\Teste1.xaml",
+              "ToolTip": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\Teste1.xaml",
+              "RelativeToolTip": "ExemploMAUI\\Teste1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-01T19:12:29.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ExemploMAUI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Lucas Rayzer\\Desktop\\Faculdade\\WorkshopDDM\\ExemploMAUI\\ExemploMAUI\\MauiProgram.cs",
+              "RelativeToolTip": "ExemploMAUI\\MauiProgram.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:16:13.755Z",
+              "EditorCaption": ""
             }
           ]
         }
