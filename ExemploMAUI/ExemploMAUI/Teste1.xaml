@@ -4,8 +4,12 @@
              x:Class="ExemploMAUI.Teste1"
              Title="Meuso">
     <ScrollView>
-        <VerticalStackLayout>
-        <Label 
+
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Label 
             Text="Welcome to .NET MAUI!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
