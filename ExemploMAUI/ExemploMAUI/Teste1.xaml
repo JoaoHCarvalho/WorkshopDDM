@@ -2,15 +2,15 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ExemploMAUI.Teste1"
-             Title="Meuso">
+             Title="Página 2">
     <ScrollView>
-
+        
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
 
             <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="Página 2 de exemplo"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 
@@ -28,7 +28,39 @@
             Text="BtnVoltar"
             HorizontalOptions="Center"
             Clicked="Voltar_Clicked"/>
+
+            <FlexLayout Direction="Column" JustifyContent="Center" AlignItems="Center">
+                <Label Text="Item 1"/>
+                <Label Text="Item 2"/>
+                <Label Text="Item 3"/>
+                <ContentView>
+                    <Label Text="Esta é uma ContentView"/>
+                </ContentView>
+            </FlexLayout>
+            
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <!-- Ajusta ao conteúdo -->
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <!-- Coluna 0 -->
+                    <ColumnDefinition Width="*"/>
+                    <!-- Coluna 1 -->
+                    <ColumnDefinition Width="*"/>
+                    <!-- Coluna 2 -->
+                </Grid.ColumnDefinitions>
+
+                <Label Text="Linha 1" Grid.Row="0" Grid.Column="0"/>
+                <Label Text="Linha 2" Grid.Row="0" Grid.Column="1"/>
+                <Label Text="Linha 3" Grid.Row="0" Grid.Column="2"/>
+               
+            </Grid>
+            
+
         </VerticalStackLayout>
         
+
     </ScrollView>
 </ContentPage>
